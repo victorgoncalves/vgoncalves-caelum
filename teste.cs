@@ -3,6 +3,8 @@ public class Teste{
 		Console.WriteLine("It's a Test");
 		Console.WriteLine("New message in master");
 		Console.WriteLine("It's a new message for test!");
+		Console.WriteLine("new line");
+		Console.WriteLine("new line again -_-");
 	}
 
 }
